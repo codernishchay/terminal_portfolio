@@ -19,7 +19,7 @@ This is a simple Protfolio with Terminal like UI. It is built using Flutter Fram
    ```
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/nishchay_v_) - nishchay.vns2000@gmail.com
+Nishchay verma - [@nishchay_v_](https://twitter.com/nishchay_v_) - nishchay.vns2000@gmail.com
 
 Project Link: [https://github.com/codernishchay/terminal_portfolio](https://github.com/codernishchay/terminal_portfolio)
 
